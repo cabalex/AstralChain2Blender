@@ -1,4 +1,4 @@
-# Deprecation
+## Archival notice
 This repository will no longer be maintained, as NieR2Blender and Blender2NieR were combined into one plugin. **[I'm now working on a fork of NieR2Blender2NieR, so use that!](https://github.com/cabalex/NieR2Blender2NieR/)**
 
 ![AstralChain2Blender](https://user-images.githubusercontent.com/31020729/113838468-a31b2400-9743-11eb-854a-b348fadf3963.png)
